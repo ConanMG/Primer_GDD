@@ -11,7 +11,7 @@ El proyecto se divide en tres fases(Preproducción,Producción y PostProducción
 
 Para más información podeis contactar con el equipo a través de Github:
 
-Mario Herrera: [text](https://github.com/Kenflin)
-Conan Montes: [text](https://github.com/ConanMG)
-Borja: [text](https://github.com/Ge0Ka)
-Jorge: [text](https://github.com/BorjaEnbiei)
+[Mario Herrera](https://github.com/Kenflin)
+[Conan Montes](https://github.com/ConanMG)
+[Jorge](https://github.com/Ge0Ka)
+[Borja](https://github.com/BorjaEnbiei)
