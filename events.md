@@ -14,3 +14,4 @@ Es un evento Online lo que facilita la difusión del juego en RRSS y en platafor
 
 
 # Nota de Presa
+[Prensa](https://docs.google.com/document/d/1GpQh1JlcAXHWs01sQP-i2mT2QvOwRg6V6zWe3mQWKqA/edit?usp=sharing)
