@@ -1,4 +1,3 @@
-
 # Volley-Boss
 ## Game Identity / Mantra: 
 Es un juego de lucha 2D arcade en el que debes eliminar al rival devolviendo la pelola de volley sin que te dé.
@@ -24,13 +23,13 @@ Hay powers-up que puedes conseguir cuando la pelota golpea a un pájaro que pase
 ## Art Style: 
 2D Cartoon 
 ## Music / Sound: 
-Includes links to music and sounds similar to what you are looking for. You can state the emotions that should evoke the player with all the sound section.
+Musica estilo rock/metal creada por el equipo de Arte.
+##Unique Selling Proposition (USP):
+Puedes jugarlo en todas partes, Personajes Únicos y Competitivo.
 ## Development / Release Roadmap: 
+**PreProducción: 01/11/2022 - 05/11/2022
+**Producción: 07/11/2022 - 19/11/2022
+**PostProducción: 21/11/2022 - 30/11/2022
 ## Platforms: Steam / Switch / Epic Games    	          
  **Audience:** PEGI 12 / Adolescentes entre 12 y 18 años que jueguen a géneros variados y quieran echar partidas rapidas con sus amigos.
-
-**Milestone 1: Complete Mechanics** - 0/0/00
-**Milestone 2: Complete Boss Fight** - 0/0/00
-**Milestone 3: Complete Levels** - 0/0/00	**Milestone 4: Complete Polishing** - 0/0/00
 ---- -----------------------
-**Release Day:** 0/0/00
