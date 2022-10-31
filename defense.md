@@ -10,7 +10,11 @@
 
 
 ## Conan Montes
+- En este proyecto me he encargado de crear el repositorio de github, organizar algunas de sus tareas, así como recopilar información con el resto de mis compañeros.
 
+-La mayor dificultad que hemos encontrado en la ejecución de este proyecto, probablemente haya sido la asignación de tiempo a las tareas de manera que fuera viable terminarlas. Otra dificultad que no esperábamos ha sido la elección de un nombre, para la que fue difícil ponerse de acuerdo.
+
+-El proyecto y el trabajo con mis compañeros han sido agradables. Pese al hecho de que no me suele gustar trabajar en equipo, este proyecto se ha hecho ameno y no me he sentido incómodo con mi grupo.
 
 ## Borja
 
