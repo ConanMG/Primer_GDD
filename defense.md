@@ -19,4 +19,9 @@
 ## Borja
 
 
-## Jorge
+## Jorge Pan
+- En el proyecto me he encargado de asignar los roles y las tareas que iba a realizar cada uno, además de realizar la asignación del tiempo que iba a llevar cada una de las fases del proyecto y en que se iban a dividir estas fases. También me encargué de diseñar el supuesto stand que se usaría al ir a un evento/festival.
+
+- Hubo dificultades a la hora de decidir hasta donde queríamos llegar con el juego, ya que pensamos en algo que diera tiempo en 1 mes y que fuéramos capaces de hacer. También hubo un lío al determinar cuanto tiempo se iba a destinar a cada parte, ya que empezamos como si se fueran a emplear los 30 días del mes y más tarde corregimos eso.
+ 
+- Creo que el trabajo con los compañeros ha sido bueno y todos hemos sabido aportar cosas interesantes al proyecto.
