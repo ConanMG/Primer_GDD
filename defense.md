@@ -17,7 +17,11 @@
 - El proyecto y el trabajo con mis compañeros han sido agradables. Pese al hecho de que no me suele gustar trabajar en equipo, este proyecto se ha hecho ameno y no me he sentido incómodo con mi grupo.
 
 ## Borja
+- Me encargué decidir el tipo de juego que sería, además de algunas tareas que faltaban por poner.
 
+- También me encargué de algunas mecánicas que faltaban por pulir y como hacerlas así como de añadir interacciones al mapeado y habilidades de los pj.
+
+- En general ha sido una experiencia bastante agradable y divertida en los que todos hemos aportado ideas, implementando las mejores o mejorandolas con el resto de ideas.
 
 ## Jorge Pan
 - En el proyecto me he encargado de asignar los roles y las tareas que iba a realizar cada uno, además de realizar la asignación del tiempo que iba a llevar cada una de las fases del proyecto y en que se iban a dividir estas fases. También me encargué de diseñar el supuesto stand que se usaría al ir a un evento/festival.
